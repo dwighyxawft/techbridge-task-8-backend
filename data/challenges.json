@@ -1,0 +1,269 @@
+[
+  {
+    "id": "monthly-sales-analysis",
+    "name": "Monthly Sales Analysis",
+    "track": "data",
+    "difficulty": "Beginner",
+    "summary": "Explore a small sales dataset, clean it up and find out which products and months perform best.",
+    "outcome": "A one-page summary of monthly sales with simple charts and three clear findings.",
+    "objective": "Use a spreadsheet to organise, clean and summarise sales data, then explain what the numbers say about the business.",
+    "skills": [
+      "Spreadsheet formulas",
+      "Sorting and filtering",
+      "Basic data cleaning",
+      "Simple charts"
+    ],
+    "tools": [
+      "Excel or Google Sheets"
+    ],
+    "produce": [
+      "A cleaned sales spreadsheet",
+      "Monthly totals and a best-sellers table",
+      "Two or three charts",
+      "A short written summary of your findings"
+    ],
+    "time": "2–3 hours",
+    "result": "A clear sales summary that a manager could read in two minutes."
+  },
+  {
+    "id": "expense-analysis",
+    "name": "Expense Analysis",
+    "track": "data",
+    "difficulty": "Beginner",
+    "summary": "Sort a list of expenses into categories and show where the money goes each month.",
+    "outcome": "A categorised expense sheet with a chart of spending by category and one clear recommendation.",
+    "objective": "Group expenses into categories, calculate totals and percentages, and spot the biggest areas of spending.",
+    "skills": [
+      "Spreadsheet formulas",
+      "Categorising data",
+      "Percentages",
+      "Data visualization"
+    ],
+    "tools": [
+      "Excel or Google Sheets"
+    ],
+    "produce": [
+      "A categorised expense table",
+      "Totals and the percentage of spend for each category",
+      "A bar or pie chart",
+      "One written recommendation"
+    ],
+    "time": "About 2 hours",
+    "result": "A simple expense report that shows at a glance where the money is going."
+  },
+  {
+    "id": "customer-analysis",
+    "name": "Customer Analysis",
+    "track": "data",
+    "difficulty": "Intermediate",
+    "summary": "Use SQL and a spreadsheet to understand who the customers are and how they buy.",
+    "outcome": "A short report that groups customers by behaviour and suggests one action for each group.",
+    "objective": "Query customer and order tables, group customers by how often and how much they buy, and describe each group.",
+    "skills": [
+      "SQL (SELECT, WHERE, GROUP BY, JOIN)",
+      "Data cleaning",
+      "Summarising data",
+      "Business-focused analysis"
+    ],
+    "tools": [
+      "SQL (any database)",
+      "Excel or Google Sheets"
+    ],
+    "produce": [
+      "The SQL queries you wrote",
+      "A table of customer groups",
+      "A one-page summary with recommendations"
+    ],
+    "time": "3–4 hours",
+    "result": "A customer report that tells the business who its best customers are and how to keep them."
+  },
+  {
+    "id": "business-dashboard",
+    "name": "Business Performance Dashboard",
+    "track": "data",
+    "difficulty": "Intermediate",
+    "summary": "Turn a year of monthly business figures into a dashboard that tells a clear story.",
+    "outcome": "A single-page dashboard with key figures and charts that a manager can read at a glance.",
+    "objective": "Choose the most important measures for a small business and present them in a clear, well-organised dashboard.",
+    "skills": [
+      "Data visualization",
+      "Choosing the right chart",
+      "Summarising data",
+      "Business-focused analysis"
+    ],
+    "tools": [
+      "Excel or Google Sheets",
+      "A charting tool of your choice"
+    ],
+    "produce": [
+      "A cleaned data sheet",
+      "A dashboard with three to five key figures",
+      "At least three charts",
+      "A short note explaining what the dashboard shows"
+    ],
+    "time": "3–4 hours",
+    "result": "A dashboard that answers “how is the business doing?” in one page."
+  },
+  {
+    "id": "customer-churn-analysis",
+    "name": "Customer Churn Analysis",
+    "track": "data",
+    "difficulty": "Advanced",
+    "summary": "Find out why customers leave and which customers are most at risk of leaving next.",
+    "outcome": "A report showing the churn rate, the main factors linked to customers leaving, and recommended actions.",
+    "objective": "Combine SQL and spreadsheet analysis to measure churn, compare customers who stayed with those who left, and recommend how to keep more of them.",
+    "skills": [
+      "Advanced SQL (joins, grouping, filtering)",
+      "Data cleaning",
+      "Comparing groups",
+      "Data visualization",
+      "Business-focused analysis"
+    ],
+    "tools": [
+      "SQL (any database)",
+      "Excel or Google Sheets"
+    ],
+    "produce": [
+      "The SQL queries behind your numbers",
+      "The churn rate by month or customer group",
+      "Charts comparing customers who stayed and customers who left",
+      "A summary of recommendations"
+    ],
+    "time": "4–6 hours",
+    "result": "A churn report with evidence-based suggestions for keeping customers."
+  },
+  {
+    "id": "responsive-landing-page",
+    "name": "Responsive Landing Page",
+    "track": "web",
+    "difficulty": "Beginner",
+    "summary": "Build a one-page website for a small business that looks good on any screen.",
+    "outcome": "A responsive landing page with a hero section, a services section and a clear call-to-action, saved on GitHub.",
+    "objective": "Practise HTML structure and CSS layout by building a clean, mobile-friendly landing page.",
+    "skills": [
+      "HTML structure",
+      "CSS layout (Flexbox)",
+      "Responsive design",
+      "Git and GitHub basics"
+    ],
+    "tools": [
+      "HTML and CSS",
+      "A code editor",
+      "Git and GitHub"
+    ],
+    "produce": [
+      "An index.html file and a style.css file",
+      "A page that works on both phone and desktop",
+      "A GitHub repository with your code"
+    ],
+    "time": "2–3 hours",
+    "result": "A polished one-page site that you could show to a small business owner."
+  },
+  {
+    "id": "contact-form",
+    "name": "Contact Form",
+    "track": "web",
+    "difficulty": "Beginner",
+    "summary": "Design an accessible contact form with clear labels and friendly feedback messages.",
+    "outcome": "A styled contact form that checks the required fields and tells the visitor what to fix.",
+    "objective": "Build a form using the right HTML input types, style it clearly and add basic JavaScript checks.",
+    "skills": [
+      "HTML forms",
+      "CSS styling",
+      "Basic JavaScript validation",
+      "Accessibility basics"
+    ],
+    "tools": [
+      "HTML, CSS and JavaScript",
+      "A code editor"
+    ],
+    "produce": [
+      "A form with name, email and message fields",
+      "Styling for focus, error and success states",
+      "A short JavaScript file that checks the fields"
+    ],
+    "time": "2–3 hours",
+    "result": "A form that is easy to fill in and gives helpful feedback."
+  },
+  {
+    "id": "portfolio-website",
+    "name": "Portfolio Website",
+    "track": "web",
+    "difficulty": "Intermediate",
+    "summary": "Create a multi-section personal portfolio that presents your work to visitors.",
+    "outcome": "A responsive portfolio with About, Projects and Contact sections, published online.",
+    "objective": "Plan and build a small multi-section website with a consistent design, then publish it.",
+    "skills": [
+      "HTML and CSS",
+      "Responsive design",
+      "Design consistency",
+      "Git and GitHub"
+    ],
+    "tools": [
+      "HTML and CSS",
+      "Git and GitHub",
+      "A free hosting service"
+    ],
+    "produce": [
+      "A multi-section portfolio website",
+      "At least two project cards",
+      "A live link and a GitHub repository"
+    ],
+    "time": "4–5 hours",
+    "result": "A live portfolio you can share with employers and clients."
+  },
+  {
+    "id": "product-page",
+    "name": "Product Page",
+    "track": "web",
+    "difficulty": "Intermediate",
+    "summary": "Build a product page with an image gallery, product details and an add-to-cart button that responds.",
+    "outcome": "A product page where thumbnails change the main image and the cart count updates when the button is clicked.",
+    "objective": "Combine layout, styling and JavaScript to build a realistic product page.",
+    "skills": [
+      "HTML and CSS layout",
+      "JavaScript events",
+      "DOM manipulation",
+      "Responsive design"
+    ],
+    "tools": [
+      "HTML, CSS and JavaScript",
+      "A code editor"
+    ],
+    "produce": [
+      "A responsive product page",
+      "A gallery that changes the main image",
+      "A cart count that updates when the button is clicked"
+    ],
+    "time": "3–4 hours",
+    "result": "A product page that looks professional and reacts to what the visitor does."
+  },
+  {
+    "id": "interactive-task-manager",
+    "name": "Interactive Task Manager",
+    "track": "web",
+    "difficulty": "Advanced",
+    "summary": "Build a small to-do app that adds, completes and removes tasks, and remembers them.",
+    "outcome": "A working task manager that saves tasks in the browser, so they are still there after a refresh.",
+    "objective": "Use JavaScript to manage data, update the page and store information in the browser.",
+    "skills": [
+      "JavaScript arrays and objects",
+      "DOM manipulation",
+      "Event handling",
+      "Browser storage",
+      "Git and GitHub"
+    ],
+    "tools": [
+      "HTML, CSS and JavaScript",
+      "Git and GitHub"
+    ],
+    "produce": [
+      "A responsive task manager interface",
+      "Add, complete and delete features",
+      "Tasks saved with localStorage",
+      "A GitHub repository with a clear README"
+    ],
+    "time": "4–6 hours",
+    "result": "A small app that feels like a real product and keeps your data."
+  }
+]

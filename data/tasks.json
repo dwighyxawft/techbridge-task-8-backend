@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "day": 1,
+    "title": "Build the TechBridge Homepage",
+    "description": "Create the first version of the TechBridge website using HTML and CSS.",
+    "difficulty": "Beginner",
+    "status": "completed",
+    "build": [
+      "A homepage that introduces TechBridge, its programs and its 30-day internship",
+      "Clear navigation, a community call-to-action, contact details and a footer",
+      "A layout that works on desktop, tablet and mobile"
+    ],
+    "connects": null
+  },
+  {
+    "id": 2,
+    "day": 4,
+    "title": "Build the TechBridge Programs Experience",
+    "description": "Create a Programs experience presenting TechBridge's available learning programs.",
+    "difficulty": "Beginner",
+    "status": "completed",
+    "build": [
+      "A dedicated Programs page or experience for Data Analytics and Web Development",
+      "Clear information on what each program is about and the skills it develops",
+      "A clear next step for visitors"
+    ],
+    "connects": "The website you built in Task 1."
+  },
+  {
+    "id": 3,
+    "day": 8,
+    "title": "Build the Internship Tasks Experience",
+    "description": "Create an interface that presents the TechBridge internship tasks and helps users understand the internship journey.",
+    "difficulty": "Beginner → Intermediate",
+    "status": "completed",
+    "build": [
+      "An introduction to the structured 30-day internship",
+      "All 8 tasks, each with its number, title, day and a brief description",
+      "A clear sense of the sequence and the increasing difficulty",
+      "Built with HTML5 and CSS3, and responsive on desktop, tablet and mobile"
+    ],
+    "connects": "The Home and Programs pages from Tasks 1 and 2."
+  },
+  {
+    "id": 4,
+    "day": 11,
+    "title": "Build an Interactive Internship Roadmap",
+    "description": "Use JavaScript to allow visitors to switch between the Data Analytics and Web Development internship tracks.",
+    "difficulty": "Beginner → Intermediate",
+    "status": "completed",
+    "build": [
+      "A way for visitors to select the Data Analytics or Web Development track",
+      "Task content that switches between the two tracks without a page refresh",
+      "Built with HTML5, CSS3 and JavaScript, with no frameworks"
+    ],
+    "connects": "The task experience from Task 3."
+  },
+  {
+    "id": 5,
+    "day": 15,
+    "title": "Build the TechBridge Challenge Hub",
+    "description": "Create an interactive Challenge Hub where visitors can browse, filter and explore challenges from the two TechBridge tracks.",
+    "difficulty": "Beginner → Intermediate",
+    "status": "completed",
+    "build": [
+      "A Challenge Hub page where visitors can browse challenges from both tracks",
+      "Filters for track and difficulty",
+      "Challenge details that appear without a page refresh"
+    ],
+    "connects": "The Home, Programs and roadmap pages from earlier tasks."
+  },
+  {
+    "id": 6,
+    "day": 19,
+    "title": "Build the TechBridge Intern Dashboard",
+    "description": "Create an interactive intern dashboard where an intern can see their progress, track their tasks and explore the Challenge Hub.",
+    "difficulty": "Intermediate",
+    "status": "in-progress",
+    "build": [
+      "A welcome section, plus a progress bar and percentage that update as tasks are completed",
+      "A task tracker with filters and task details",
+      "A link to the Challenge Hub and a Modern Web Technologies explorer"
+    ],
+    "connects": "The Challenge Hub from Task 5."
+  },
+  {
+    "id": 7,
+    "day": 22,
+    "title": "Build a TechBridge Task Management API",
+    "description": "Create a simple Node.js and Express backend API for the TechBridge internship tasks and connect it to the Task 6 dashboard.",
+    "difficulty": "Intermediate",
+    "status": "not-started",
+    "build": [
+      "An Express server with GET /api/tasks, GET /api/tasks/:id and PUT /api/tasks/:id",
+      "A dashboard that loads its tasks from the API, with loading and error messages",
+      "View Task and Mark as Completed connected to the backend"
+    ],
+    "connects": "The Task 6 intern dashboard."
+  },
+  {
+    "id": 8,
+    "day": 26,
+    "title": "Build the Complete TechBridge Internship Platform",
+    "description": "Combine the different components created during the internship into a complete TechBridge platform.",
+    "difficulty": "Intermediate",
+    "status": "not-started",
+    "build": [
+      "The components from the earlier tasks, combined",
+      "A complete TechBridge internship platform"
+    ],
+    "connects": "The components created across the internship."
+  }
+]
